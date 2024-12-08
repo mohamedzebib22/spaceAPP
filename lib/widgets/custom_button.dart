@@ -22,7 +22,7 @@ class CustomButton extends StatelessWidget {
                     padding: const EdgeInsets.all(8.0),
                     child: Row(
                       children: [
-                        Text(title , style: TextStyle(color: Colors.white , fontSize: 20),) , 
+                        Text(title , style: TextStyle(color: Colors.white , fontSize: 18),) , 
                         Spacer(),
                         Icon(Icons.arrow_right_alt_outlined , color: Colors.white, ),
                       ],
